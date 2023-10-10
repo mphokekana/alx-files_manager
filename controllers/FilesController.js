@@ -301,3 +301,4 @@ export default class FilesController {
     res.status(200).sendFile(absoluteFilePath);
   }
 }
+
