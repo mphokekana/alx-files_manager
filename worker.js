@@ -79,4 +79,3 @@ userQueue.process(async (job, done) => {
     done(err);
   }
 });
-
